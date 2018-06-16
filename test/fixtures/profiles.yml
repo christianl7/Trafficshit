@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  trips: 1
+  evaluation: 
+
+two:
+  user: two
+  trips: 1
+  evaluation: 
